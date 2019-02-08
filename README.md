@@ -1,3 +1,3 @@
-Data Structure Code 
+Data Structure Code \n
 Algorithm Codes
 
